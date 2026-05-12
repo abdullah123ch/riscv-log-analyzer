@@ -1,1 +1,1 @@
-# RISC-V Log Analyzer
+# RISC-V Log Analyzer (Professional Edition)
