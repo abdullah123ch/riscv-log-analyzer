@@ -1,1 +1,1 @@
-# RISC-V Log Analyzer (Professional Edition)
+# RISC-V Log Analyzer (UET Lahore Version)
